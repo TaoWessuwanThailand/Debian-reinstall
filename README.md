@@ -18,7 +18,7 @@ A script that reinstalls any VPS or physical machine to minimal Debian via netwo
 
 ```bash
 # Download the script
-curl -fLO https://raw.githubusercontent.com/bohanyang/debi/master/debi.sh
+curl -fLO https://raw.githubusercontent.com/TaoWessuwanThailand/Debian-reinstall/master/debi.sh
 chmod +x debi.sh
 
 # Basic installation (creates user 'debian' with sudo access)
